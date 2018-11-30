@@ -22,7 +22,7 @@ git_demo: Git Demo
 Main features
 -------------
 
-* feature
+* amazing feature Nr 1
 * feature
 * more features
 

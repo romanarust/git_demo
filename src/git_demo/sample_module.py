@@ -55,4 +55,4 @@ class SampleClassName(object):
         Returns:
             int: The return value.
         """
-        return 42 + param1
+        return 40 + param1
